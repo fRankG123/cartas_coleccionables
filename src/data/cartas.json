@@ -1,0 +1,14 @@
+[
+  {
+    "id": "01",
+    "nombre": "Niggerero Nigera",
+    "descripcion": "Negro con tenis",
+    "rango": "Legendario"
+  },
+  {
+    "id": "03",
+    "nombre": "Tralalero Tralala",
+    "descripcion": "Tiburon con tenis",
+    "rango": "Épico"
+  }
+]
