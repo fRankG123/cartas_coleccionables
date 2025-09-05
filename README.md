@@ -177,7 +177,7 @@ class Curso {
 
 const profe = new Profesor("Carlos");
 const curso = new Curso(profe);
-curso.iniciarClase();
+curso.iniciarClase();  
 
 
 # 12. Configuración de TypeScript con Node.js y VSCode
